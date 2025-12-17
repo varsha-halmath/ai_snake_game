@@ -1,2 +1,2 @@
-# ai_snake_game
-AI Snake Game:- Classic Snake enhanced with AI solvers for automatic gameplay and smart movement.
+# AI Snake Game
+A Python-based Snake game featuring AI solvers like Greedy and Hamiltonian for automated gameplay.
